@@ -2,8 +2,8 @@
 Bioinformatics project
 
 Team Members:
-Alexander Tarima
-Richard Sun
+Alexander Tarima,
+Richard Sun,
 Griffin Dale
 
 Dataset:
