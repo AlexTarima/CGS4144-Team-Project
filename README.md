@@ -4,7 +4,7 @@ Bioinformatics project
 Team Members:
 Alexander Tarima
 Richard Sun
-(third pending?)
+Griffin Dale
 
 Dataset:
 https://www.refine.bio/experiments/SRP096554/dehydration-and-fixed-carbon-starvation-of-brassinosteroid-related-mutants-in-arabidopsis
