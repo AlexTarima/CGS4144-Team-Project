@@ -7,6 +7,7 @@ Richard Sun,
 Griffin Dale
 
 Dataset:
-https://www.refine.bio/experiments/SRP096554/dehydration-and-fixed-carbon-starvation-of-brassinosteroid-related-mutants-in-arabidopsis
+https://www.refine.bio/experiments/SRP092402/a-blood-rna-signature-for-predicting-the-treatment-outcome-in-the-tuberculosis-treatment-response-cohort
 
 Project Question:
+What genes affect the predicted tuberculosis treatment outcomes positively, and which negatively?
