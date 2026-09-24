@@ -1,0 +1,605 @@
+term_id	term_name	n_methods_tested	n_methods_significant	pvalue	fold_enrichment
+
+Disease Ontology:
+DOID:0080600	COVID-19	1	1	0.0017684230915088	30.9239766081871
+DOID:11405	diphtheria	1	1	0.0056617873301309	176.266666666667
+DOID:14735	hereditary angioedema	1	1	0.0079185118454123	125.904761904762
+DOID:401	multidrug-resistant tuberculosis	1	1	0.0079185118454123	125.904761904762
+DOID:399	tuberculosis	1	1	0.0090320325927596	13.4554707379135
+DOID:1558	angioedema	1	1	0.010170682497384	97.9259259259259
+DOID:3385	bacterial vaginosis	1	1	0.0124183073286942	80.1212121212121
+DOID:9470	bacterial meningitis	1	1	0.0124183073286942	80.1212121212121
+DOID:2224	essential thrombocythemia	1	1	0.0168999516390452	58.7555555555556
+DOID:3087	gingivitis	1	1	0.0191339871425532	51.843137254902
+DOID:10873	Kuhnt-Junius degeneration	1	1	0.0269176178042292	36.7222222222222
+DOID:898	autosomal dominant polycystic kidney disease	1	1	0.0269176178042292	36.7222222222222
+DOID:0080998	acute necrotizing pancreatitis	1	1	0.0291314041132699	33.8974358974359
+DOID:9471	meningitis	1	1	0.0302366175414233	32.641975308642
+DOID:2228	thrombocytosis	1	1	0.0313407124740137	31.4761904761905
+DOID:1116	pertussis	1	1	0.0324436899016114	30.3908045977011
+DOID:14115	toxic shock syndrome	1	1	0.037941849082063	25.921568627451
+DOID:986	alopecia areata	1	1	0.0401333248051161	24.4814814814815
+DOID:8432	polycythemia	1	1	0.0477685887963002	20.4961240310077
+DOID:987	alopecia	1	1	0.0521073150036568	18.7517730496454
+
+Gene Ontology:
+GO:0042742	defense response to bacterium	2	2	0.0	9.785932721712538
+GO:0050830	defense response to Gram-positive bacterium	2	2	1.99840144432528e-15	12.62135922330097
+GO:0032760	positive regulation of tumor necrosis factor production	2	2	6.61914967281518e-13	4.069767441860465
+GO:0071222	cellular response to lipopolysaccharide	2	2	1.2355005907238599e-11	4.72972972972973
+GO:0031640	killing of cells of another organism	2	2	1.1480937061302518e-10	12.63157894736842
+GO:0034341	response to type II interferon	2	2	2.58250976159502e-10	6.857142857142857
+GO:0050729	positive regulation of inflammatory response	2	2	9.63674778918622e-10	7.511737089201878
+GO:0050832	defense response to fungus	2	2	3.1980198489378604e-09	11.267605633802818
+GO:0032731	positive regulation of interleukin-1 beta production	2	2	5.849554618464481e-09	6.315789473684211
+GO:0002221	pattern recognition receptor signaling pathway	2	2	6.498996184228676e-09	4.805491990846682
+GO:0019731	antibacterial humoral response	2	2	9.12755382387331e-09	9.090909090909092
+GO:0070269	pyroptotic inflammatory response	2	2	1.936541243662084e-08	13.043478260869566
+GO:0061844	antimicrobial humoral immune response mediated by antimicrobial peptide	2	2	2.3267028454894083e-08	9.243697478991598
+GO:0002227	innate immune response in mucosa	2	2	4.5374788149033e-08	15.0
+GO:0045071	negative regulation of viral genome replication	2	2	8.443968165498346e-07	10.38961038961039
+GO:0050829	defense response to Gram-negative bacterium	2	2	2.15634743327975e-06	8.333333333333334
+GO:0035456	response to interferon-beta	2	2	2.737341847476858e-06	13.461538461538462
+GO:0032729	positive regulation of type II interferon production	2	2	3.79356102575557e-06	4.166666666666667
+GO:0006958	complement activation, classical pathway	2	2	1.019253749456264e-05	11.538461538461538
+GO:0045824	negative regulation of innate immune response	2	2	1.35167982149298e-05	5.555555555555555
+GO:0060337	type I interferon-mediated signaling pathway	2	2	4.463046549532149e-05	7.4766355140186915
+GO:0002767	immune response-inhibiting cell surface receptor signaling pathway	2	2	4.72134770503896e-05	6.666666666666666
+GO:0032691	negative regulation of interleukin-1 beta production	2	2	6.25885967564521e-05	8.88888888888889
+GO:1903556	negative regulation of tumor necrosis factor superfamily cytokine production	2	2	6.467171110347e-05	3.488372093023256
+GO:0006953	acute-phase response	2	2	8.541069568890241e-05	10.869565217391305
+GO:0046456	icosanoid biosynthetic process	2	2	9.49280034772464e-05	7.042253521126761
+GO:0042832	defense response to protozoan	2	2	0.00010027310695690512	15.384615384615383
+GO:0043368	positive T cell selection	2	2	0.00016592633211473786	6.666666666666667
+GO:0050853	B cell receptor signaling pathway	2	2	0.00017146865333076723	7.563025210084034
+GO:0016045	detection of bacterium	2	2	0.0002076248109168	12.5
+GO:0048525	negative regulation of viral process	2	2	0.0003671805031593	9.649122807017545
+GO:0071639	positive regulation of monocyte chemotactic protein-1 production	2	2	0.0005512436381571543	17.64705882352941
+GO:0071346	cellular response to type II interferon	2	2	0.0006191860936575697	7.017543859649123
+GO:0045671	negative regulation of osteoclast differentiation	2	2	0.0006237316066104	8.333333333333334
+GO:0031342	negative regulation of cell killing	2	2	0.0008696538116961933	5.769230769230769
+GO:0002283	neutrophil activation involved in immune response	2	2	0.001125588214788	12.5
+GO:0045916	negative regulation of complement activation	2	2	0.0011679388592809	13.636363636363637
+GO:0002281	macrophage activation involved in immune response	2	2	0.0020050570706595	10.714285714285714
+GO:0071347	cellular response to interleukin-1	2	2	0.0028578877945078	4.032258064516129
+GO:0032682	negative regulation of chemokine production	2	2	0.0046124775073073	8.823529411764705
+GO:0043374	CD8-positive, alpha-beta T cell differentiation	2	2	0.0054411056815764	7.317073170731708
+GO:0009617	response to bacterium	2	1	0.0	5.444887118193891
+GO:0045087	innate immune response	2	1	0.0	4.80439258750858
+GO:0016070	RNA metabolic process	2	1	4.3690547247129696e-82	0.6642903434867142
+GO:0141187	nucleic acid biosynthetic process	2	1	4.99201183983722e-78	0.6177992987143096
+GO:0032774	RNA biosynthetic process	2	1	3.2914060050474296e-77	0.6347572482415509
+GO:0006396	RNA processing	2	1	4.8104224909858e-33	0.2495321272613848
+GO:0022613	ribonucleoprotein complex biogenesis	2	1	2.3429177697385204e-25	0.4854368932038835
+GO:0016071	mRNA metabolic process	2	1	3.88709757983112e-20	0.3311258278145695
+GO:0042254	ribosome biogenesis	2	1	1.7401287044308e-19	0.5484460694698355
+GO:0006397	mRNA processing	2	1	1.88844499186354e-18	0.125
+GO:0008380	RNA splicing	2	1	7.49504440789015e-16	0.2677376171352075
+GO:0002181	cytoplasmic translation	2	1	9.35707195088143e-16	1.4124293785310735
+GO:0071706	tumor necrosis factor superfamily cytokine production	2	1	1.77635683940025e-15	3.802281368821293
+GO:1903555	regulation of tumor necrosis factor superfamily cytokine production	2	1	1.77635683940025e-15	3.802281368821293
+GO:0016072	rRNA metabolic process	2	1	2.39191422557679e-15	0.4123711340206186
+GO:0006364	rRNA processing	2	1	9.048491691973471e-15	0.5012531328320802
+GO:0032640	tumor necrosis factor production	2	1	1.50990331349021e-14	3.515625
+GO:0032680	regulation of tumor necrosis factor production	2	1	1.50990331349021e-14	3.515625
+GO:1903557	positive regulation of tumor necrosis factor superfamily cytokine production	2	1	1.73638881051374e-13	3.9548022598870056
+GO:0000377	RNA splicing, via transesterification reactions with bulged adenosine as nucleophile	2	1	1.98618100369603e-12	0.0
+GO:0000398	mRNA splicing, via spliceosome	2	1	1.98618100369603e-12	0.0
+GO:0000375	RNA splicing, via transesterification reactions	2	1	4.71301064977116e-12	0.0
+GO:0043484	regulation of RNA splicing	2	1	5.18032070335903e-12	0.6711409395973155
+GO:0071219	cellular response to molecule of bacterial origin	2	1	6.59317045403895e-12	4.545454545454545
+GO:0000380	alternative mRNA splicing, via spliceosome	2	1	1.13108911147476e-11	0.0
+GO:1903311	regulation of mRNA metabolic process	2	1	1.3220787905945299e-11	0.3891050583657587
+GO:0032612	interleukin-1 production	2	1	1.9806822848522598e-11	6.666666666666667
+GO:0032652	regulation of interleukin-1 production	2	1	1.9806822848522598e-11	6.666666666666667
+GO:0071216	cellular response to biotic stimulus	2	1	2.25757190719378e-11	4.069767441860465
+GO:1901740	negative regulation of myoblast fusion	2	1	2.5818369829944598e-11	2.469135802469136
+GO:0034242	negative regulation of syncytium formation by plasma membrane fusion	2	1	3.9306880963463e-11	2.409638554216868
+GO:0032611	interleukin-1 beta production	2	1	4.8002490871113e-11	6.993006993006993
+GO:0032651	regulation of interleukin-1 beta production	2	1	4.8002490871113e-11	6.993006993006993
+GO:0042274	ribosomal small subunit biogenesis	2	1	8.0375980797267e-11	1.0869565217391304
+GO:0046631	alpha-beta T cell activation	2	1	1.2625411959888748e-10	6.57439446366782
+GO:0032496	response to lipopolysaccharide	2	1	1.46178846804901e-10	3.87409200968523
+GO:0009620	response to fungus	2	1	1.76282322073007e-10	10.126582278481012
+GO:0000381	regulation of alternative mRNA splicing, via spliceosome	2	1	1.82822192667652e-10	0.0
+GO:0002237	response to molecule of bacterial origin	2	1	2.04394501324145e-10	3.72093023255814
+GO:0022618	protein-RNA complex assembly	2	1	2.3460769156872004e-10	0.7957559681697612
+GO:0009060	aerobic respiration	2	1	6.39877262287314e-10	0.9523809523809524
+GO:0006119	oxidative phosphorylation	2	1	8.839884380051901e-10	0.0
+GO:0071826	protein-RNA complex organization	2	1	1.18411906541232e-09	1.020408163265306
+GO:0072593	reactive oxygen species metabolic process	2	1	1.6033072647303501e-09	2.166064981949458
+GO:0048024	regulation of mRNA splicing, via spliceosome	2	1	3.18431077307215e-09	0.0
+GO:0042773	ATP synthesis coupled electron transport	2	1	3.7026302024401e-09	0.0
+GO:0042775	mitochondrial ATP synthesis coupled electron transport	2	1	3.7026302024401e-09	0.0
+GO:0006403	RNA localization	2	1	4.11166753482756e-09	0.303030303030303
+GO:0045333	cellular respiration	2	1	4.91717444539574e-09	1.0615711252653928
+GO:0050684	regulation of mRNA processing	2	1	4.9826225673557e-09	0.0
+GO:0071357	cellular response to type I interferon	2	1	6.614425229756191e-09	5.325443786982249
+GO:0051607	defense response to virus	2	1	7.142105017217893e-09	5.895196506550218
+GO:0034340	response to type I interferon	2	1	8.76309957931198e-09	5.084745762711864
+GO:0022900	electron transport chain	2	1	1.06681901090866e-08	0.0
+GO:0071345	cellular response to cytokine stimulus	2	1	1.6559122073545e-08	4.187437686939183
+GO:1901739	regulation of myoblast fusion	2	1	1.66307864936785e-08	3.125
+GO:0019646	aerobic electron transport chain	2	1	2.45636666562632e-08	0.0
+GO:2000377	regulation of reactive oxygen species metabolic process	2	1	2.45653446473426e-08	2.072538860103627
+GO:0022904	respiratory electron transport chain	2	1	2.73834526165473e-08	0.0
+GO:0019730	antimicrobial humoral response	2	1	2.94336444106591e-08	7.272727272727273
+GO:0032757	positive regulation of interleukin-8 production	2	1	3.11108769857071e-08	4.2105263157894735
+GO:0006909	phagocytosis	2	1	3.17331201316051e-08	2.359882005899705
+GO:0009144	purine nucleoside triphosphate metabolic process	2	1	3.63539434111715e-08	1.0610079575596818
+GO:0015986	proton motive force-driven ATP synthesis	2	1	4.3711579911232e-08	0.7874015748031495
+GO:0032732	positive regulation of interleukin-1 production	2	1	4.73296219993813e-08	5.555555555555555
+GO:0046034	ATP metabolic process	2	1	5.64980142669924e-08	1.1976047904191618
+GO:0009205	purine ribonucleoside triphosphate metabolic process	2	1	7.11414942511368e-08	1.0869565217391304
+GO:0007520	myoblast fusion	2	1	7.44029841445289e-08	2.5210084033613445
+GO:0009145	purine nucleoside triphosphate biosynthetic process	2	1	8.88349789285314e-08	0.5649717514124294
+GO:0009206	purine ribonucleoside triphosphate biosynthetic process	2	1	8.88349789285314e-08	0.5649717514124294
+GO:0032637	interleukin-8 production	2	1	1.12311797861864e-07	3.1746031746031744
+GO:0032677	regulation of interleukin-8 production	2	1	1.12311797861864e-07	3.1746031746031744
+GO:0006959	humoral immune response	2	1	1.47700733199585e-07	8.098591549295776
+GO:0007040	lysosome organization	2	1	1.50750901539709e-07	0.5714285714285714
+GO:0080171	lytic vacuole organization	2	1	1.50750901539709e-07	0.5714285714285714
+GO:0006754	ATP biosynthetic process	2	1	1.76335608337297e-07	0.6134969325153374
+GO:0032722	positive regulation of chemokine production	2	1	1.8894337139308e-07	4.49438202247191
+GO:1901136	carbohydrate derivative catabolic process	2	1	1.90813415734681e-07	1.9178082191780823
+GO:0002274	myeloid leukocyte activation	2	1	2.20210344181737e-07	4.037267080745341
+GO:2000379	positive regulation of reactive oxygen species metabolic process	2	1	2.2218399520213e-07	2.9702970297029703
+GO:0019827	stem cell population maintenance	2	1	3.4865963465852e-07	1.7647058823529411
+GO:0042776	proton motive force-driven mitochondrial ATP synthesis	2	1	3.99703688813702e-07	0.0
+GO:0009201	ribonucleoside triphosphate biosynthetic process	2	1	4.54179505338104e-07	0.53475935828877
+GO:0032602	chemokine production	2	1	4.62222085495512e-07	4.166666666666667
+GO:0032642	regulation of chemokine production	2	1	4.62222085495512e-07	4.166666666666667
+GO:0060142	regulation of syncytium formation by plasma membrane fusion	2	1	5.82026112676237e-07	2.912621359223301
+GO:0001906	cell killing	2	1	5.86335414887174e-07	6.545454545454546
+GO:0009142	nucleoside triphosphate biosynthetic process	2	1	5.97266966773091e-07	0.5050505050505051
+GO:0050852	T cell receptor signaling pathway	2	1	6.295517538076233e-07	8.035714285714285
+GO:0050777	negative regulation of immune response	2	1	6.45727912473859e-07	4.3478260869565215
+GO:0006955	immune response	2	1	6.684380955113724e-07	4.139803189684425
+GO:0009595	detection of biotic stimulus	2	1	6.81646291633697e-07	5.172413793103448
+GO:0002526	acute inflammatory response	2	1	7.12578156480959e-07	8.771929824561404
+GO:0032609	type II interferon production	2	1	7.35592821321518e-07	5.084745762711864
+GO:0032649	regulation of type II interferon production	2	1	7.35592821321518e-07	5.084745762711864
+GO:0002532	production of molecular mediator involved in inflammatory response	2	1	7.79434725206585e-07	3.968253968253968
+GO:0007596	blood coagulation	2	1	9.10124197117668e-07	3.767123287671233
+GO:0051236	establishment of RNA localization	2	1	9.11551118646107e-07	0.3802281368821293
+GO:0098727	maintenance of cell number	2	1	9.26250046521508e-07	1.7241379310344829
+GO:0050860	negative regulation of T cell receptor signaling pathway	2	1	9.48352479417738e-07	12.727272727272728
+GO:0006164	purine nucleotide biosynthetic process	2	1	9.4968710429022e-07	0.352112676056338
+GO:0050817	coagulation	2	1	1.0346716567966e-06	3.741496598639456
+GO:0032692	negative regulation of interleukin-1 production	2	1	1.41744690496104e-06	9.433962264150942
+GO:0014902	myotube differentiation	2	1	1.62715073214453e-06	2.23463687150838
+GO:1902600	proton transmembrane transport	2	1	1.69098624369646e-06	0.0
+GO:0061157	mRNA destabilization	2	1	1.99334979415743e-06	0.53475935828877
+GO:0000723	telomere maintenance	2	1	2.03408059750974e-06	0.7352941176470588
+GO:0032755	positive regulation of interleukin-6 production	2	1	2.07089045223263e-06	1.574803149606299
+GO:2000779	regulation of double-strand break repair	2	1	2.1512073310507e-06	1.2658227848101264
+GO:2000781	positive regulation of double-strand break repair	2	1	2.30075636613258e-06	1.2345679012345678
+GO:0050779	RNA destabilization	2	1	2.30102628988625e-06	0.5235602094240838
+GO:0042273	ribosomal large subunit biogenesis	2	1	2.3340235825337e-06	0.7633587786259541
+GO:0043487	regulation of RNA stability	2	1	2.59218257446408e-06	0.6289308176100629
+GO:2000036	regulation of stem cell population maintenance	2	1	2.603903563014e-06	1.8691588785046729
+GO:0061900	glial cell activation	2	1	2.99634469547172e-06	4.054054054054054
+GO:0002752	cell surface pattern recognition receptor signaling pathway	2	1	3.08914396263127e-06	4.62962962962963
+GO:0043488	regulation of mRNA stability	2	1	3.26667343341339e-06	0.6711409395973155
+GO:0032635	interleukin-6 production	2	1	3.59007768846453e-06	2.061855670103093
+GO:0032675	regulation of interleukin-6 production	2	1	3.59007768846453e-06	2.061855670103093
+GO:0032204	regulation of telomere maintenance	2	1	3.6190668122468e-06	1.0869565217391304
+GO:0007004	telomere maintenance via telomerase	2	1	3.74768445557798e-06	2.0
+GO:0000768	syncytium formation by plasma membrane fusion	2	1	3.819975116934e-06	2.3255813953488373
+GO:0140253	cell-cell fusion	2	1	3.819975116934e-06	2.3255813953488373
+GO:0006120	mitochondrial electron transport, NADH to ubiquinone	2	1	3.8819958299019e-06	0.0
+GO:0050657	nucleic acid transport	2	1	4.15657551874039e-06	0.0
+GO:0050658	RNA transport	2	1	4.15657551874039e-06	0.0
+GO:0030490	maturation of SSU-rRNA	2	1	4.70958104454374e-06	0.8403361344537815
+GO:0007599	hemostasis	2	1	4.92571050614288e-06	3.654485049833888
+GO:1903313	positive regulation of mRNA metabolic process	2	1	5.79510855770084e-06	0.4545454545454545
+GO:0000470	maturation of LSU-rRNA	2	1	6.02398305961393e-06	0.0
+GO:0030162	regulation of proteolysis	2	1	6.35661629000417e-06	2.5
+GO:0006360	transcription by RNA polymerase I	2	1	6.55304631437156e-06	0.8695652173913044
+GO:0032212	positive regulation of telomere maintenance via telomerase	2	1	6.60775840272873e-06	2.5
+GO:0002250	adaptive immune response	2	1	6.675180445080294e-06	3.64963503649635
+GO:0045943	positive regulation of transcription by RNA polymerase I	2	1	6.91770561351694e-06	0.0
+GO:1904358	positive regulation of telomere maintenance via telomere lengthening	2	1	7.16800862827167e-06	2.2222222222222223
+GO:0072524	pyridine-containing compound metabolic process	2	1	7.60983163239359e-06	2.4390243902439024
+GO:0006949	syncytium formation	2	1	7.67535340397416e-06	2.2900763358778624
+GO:0009152	purine ribonucleotide biosynthetic process	2	1	8.01958986862417e-06	0.423728813559322
+GO:0042445	hormone metabolic process	2	1	8.46456435432685e-06	0.9174311926605504
+GO:0061014	positive regulation of mRNA catabolic process	2	1	9.65691909947968e-06	0.5102040816326531
+GO:0038094	Fc-gamma receptor signaling pathway	2	1	9.93517734844517e-06	9.09090909090909
+GO:0045589	regulation of regulatory T cell differentiation	2	1	9.98188877465722e-06	4.225352112676057
+GO:0002251	organ or tissue specific immune response	2	1	1.02258243270814e-05	13.333333333333334
+GO:0046629	gamma-delta T cell activation	2	1	1.0285633171390148e-05	16.129032258064516
+GO:0160165	CD8-positive, alpha-beta T cell homeostasis	2	1	1.12178888391767e-05	4.166666666666667
+GO:0006278	RNA-templated DNA biosynthetic process	2	1	1.20172885636403e-05	1.941747572815534
+GO:0051028	mRNA transport	2	1	1.29489835713317e-05	0.0
+GO:0030193	regulation of blood coagulation	2	1	1.29583013666057e-05	4.545454545454546
+GO:0010499	proteasomal ubiquitin-independent protein catabolic process	2	1	1.39892611221715e-05	0.0
+GO:0000479	endonucleolytic cleavage of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	2	1	1.44814733273977e-05	0.0
+GO:0006356	regulation of transcription by RNA polymerase I	2	1	1.47253838712957e-05	1.3888888888888888
+GO:0035751	regulation of lysosomal lumen pH	2	1	1.47517185709045e-05	0.0
+GO:0016052	carbohydrate catabolic process	2	1	1.5103640563785e-05	1.6460905349794237
+GO:0006801	superoxide metabolic process	2	1	1.52506406083663e-05	1.1904761904761905
+GO:0043300	regulation of leukocyte degranulation	2	1	1.54683146902368e-05	3.125
+GO:0042116	macrophage activation	2	1	1.54995298240479e-05	3.4722222222222223
+GO:0070106	interleukin-27-mediated signaling pathway	2	1	1.6508769721111405e-05	23.52941176470588
+GO:0002765	immune response-inhibiting signal transduction	2	1	1.66509157586425e-05	6.521739130434782
+GO:0061644	protein localization to CENP-A containing chromatin	2	1	1.81829861836125e-05	0.0
+GO:0001774	microglial cell activation	2	1	1.82982404497434e-05	4.6875
+GO:0002269	leukocyte activation involved in inflammatory response	2	1	1.82982404497434e-05	4.6875
+GO:0140719	constitutive heterochromatin formation	2	1	1.88651604289381e-05	0.0
+GO:0002385	mucosal immune response	2	1	1.90860584563524e-05	12.280701754385966
+GO:2000819	regulation of nucleotide-excision repair	2	1	1.94590385930832e-05	2.083333333333333
+GO:0050764	regulation of phagocytosis	2	1	2.00050480252401e-05	2.985074626865672
+GO:0098581	detection of external biotic stimulus	2	1	2.11053374561398e-05	7.894736842105263
+GO:0006376	mRNA splice site recognition	2	1	2.14007728204501e-05	0.0
+GO:0050818	regulation of coagulation	2	1	2.20279035489934e-05	4.301075268817204
+GO:0006956	complement activation	2	1	2.2829010939196e-05	10.81081081081081
+GO:0140895	cell surface toll-like receptor signaling pathway	2	1	2.28956924657187e-05	3.96039603960396
+GO:0007032	endosome organization	2	1	2.53608742073475e-05	0.0
+GO:0045739	positive regulation of DNA repair	2	1	2.70211092970791e-05	0.8928571428571428
+GO:0046496	nicotinamide nucleotide metabolic process	2	1	2.72349714016684e-05	1.7621145374449338
+GO:0098543	detection of other organism	2	1	3.01530893178636e-05	10.344827586206897
+GO:0006405	RNA export from nucleus	2	1	3.1750120677648e-05	0.0
+GO:0045590	negative regulation of regulatory T cell differentiation	2	1	3.4695728357903e-05	3.0303030303030303
+GO:0042255	ribosome assembly	2	1	3.58543406306755e-05	1.8691588785046729
+GO:0141061	disruption of cell in another organism	2	1	3.60657617792803e-05	12.63157894736842
+GO:0097006	regulation of plasma lipoprotein particle levels	2	1	3.66993279741212e-05	1.0989010989010988
+GO:1902106	negative regulation of leukocyte differentiation	2	1	3.9936097411708e-05	5.405405405405405
+GO:1900046	regulation of hemostasis	2	1	4.02396419028062e-05	4.49438202247191
+GO:0031295	T cell costimulation	2	1	4.2243854503842287e-05	9.23076923076923
+GO:0032210	regulation of telomere maintenance via telomerase	2	1	4.51216767882202e-05	2.5974025974025974
+GO:0006720	isoprenoid metabolic process	2	1	4.58606585671539e-05	1.5267175572519085
+GO:0007042	lysosomal lumen acidification	2	1	4.6318694227887e-05	0.0
+GO:0010833	telomere maintenance via telomere lengthening	2	1	4.9927303249553e-05	1.6666666666666667
+GO:0001510	RNA methylation	2	1	5.41679775105778e-05	0.0
+GO:0006289	nucleotide-excision repair	2	1	5.50793592259774e-05	0.684931506849315
+GO:0140894	endolysosomal toll-like receptor signaling pathway	2	1	5.56808817395726e-05	2.272727272727273
+GO:0006906	vesicle fusion	2	1	5.79549322834438e-05	1.075268817204301
+GO:1904356	regulation of telomere maintenance via telomere lengthening	2	1	5.94968198637755e-05	2.150537634408602
+GO:0000245	spliceosomal complex assembly	2	1	6.02765109155249e-05	0.0
+GO:1903707	negative regulation of hemopoiesis	2	1	6.25573504480226e-05	5.298013245033113
+GO:0098869	cellular oxidant detoxification	2	1	6.7149931577859e-05	1.680672268907563
+GO:0150076	neuroinflammatory response	2	1	6.77668583644042e-05	3.7383177570093458
+GO:0046470	phosphatidylcholine metabolic process	2	1	8.25525689165385e-05	0.0
+GO:0031638	zymogen activation	2	1	8.25934853079247e-05	1.4925373134328357
+GO:0000463	maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	2	1	8.35517789949367e-05	0.0
+GO:0042752	regulation of circadian rhythm	2	1	9.30667727592562e-05	1.30718954248366
+GO:0010572	positive regulation of platelet activation	2	1	0.000101372829893	4.761904761904762
+GO:0052547	regulation of peptidase activity	2	1	0.0001074574503576	3.2258064516129035
+GO:0034145	positive regulation of toll-like receptor 4 signaling pathway	2	1	0.0001091780122781	8.333333333333334
+GO:0031663	lipopolysaccharide-mediated signaling pathway	2	1	0.0001113654903355	3.3707865168539324
+GO:0097242	amyloid-beta clearance	2	1	0.0001122707769696	3.5087719298245617
+GO:0062208	positive regulation of pattern recognition receptor signaling pathway	2	1	0.0001126026778928	4.651162790697675
+GO:0043123	positive regulation of canonical NF-kappaB signal transduction	2	1	0.0001148263573917	2.5139664804469275
+GO:0140367	antibacterial innate immune response	2	1	0.000116505617558	8.333333333333334
+GO:0000466	maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	2	1	0.0001170355771644	0.0
+GO:0000154	rRNA modification	2	1	0.0001180935689528	0.0
+GO:0043414	macromolecule methylation	2	1	0.0001196087460256	0.0
+GO:2000278	regulation of DNA biosynthetic process	2	1	0.0001199211393744	1.550387596899225
+GO:0000959	mitochondrial RNA metabolic process	2	1	0.0001313051635265	0.0
+GO:0002230	positive regulation of defense response to virus by host	2	1	0.0001445638901406965	9.615384615384617
+GO:0033209	tumor necrosis factor-mediated signaling pathway	2	1	0.00014745354916060642	6.214689265536723
+GO:0002832	negative regulation of response to biotic stimulus	2	1	0.0001477575101422	5.555555555555555
+GO:0002367	cytokine production involved in immune response	2	1	0.0001500034089449	4.166666666666667
+GO:0002718	regulation of cytokine production involved in immune response	2	1	0.0001500034089449	4.166666666666667
+GO:1902459	positive regulation of stem cell population maintenance	2	1	0.0001582530341954	2.631578947368421
+GO:0043029	T cell homeostasis	2	1	0.0001603183523231	3.5087719298245617
+GO:0036037	CD8-positive, alpha-beta T cell activation	2	1	0.0001612213451966	6.451612903225807
+GO:0006999	nuclear pore organization	2	1	0.0001679676031792	0.0
+GO:0050766	positive regulation of phagocytosis	2	1	0.0001727902619206	2.083333333333333
+GO:2000573	positive regulation of DNA biosynthetic process	2	1	0.0001755013706626	1.4084507042253522
+GO:0090174	organelle membrane fusion	2	1	0.0001770456713778	1.0309278350515465
+GO:0090322	regulation of superoxide metabolic process	2	1	0.0001901037044074	2.3255813953488373
+GO:0007035	vacuolar acidification	2	1	0.00019273202789	0.0
+GO:1903312	negative regulation of mRNA metabolic process	2	1	0.0001946750566007	0.591715976331361
+GO:0034063	stress granule assembly	2	1	0.0002055619792589	0.0
+GO:0010543	regulation of platelet activation	2	1	0.0002073511131246	3.947368421052632
+GO:0002446	neutrophil mediated immunity	2	1	0.0002155005047566	4.0
+GO:1901796	regulation of signal transduction by p53 class mediator	2	1	0.0002221233964877	1.6574585635359116
+GO:0045911	positive regulation of DNA recombination	2	1	0.0002301209805071	0.9523809523809524
+GO:0030183	B cell differentiation	2	1	0.0002328102392917	5.58659217877095
+GO:0031167	rRNA methylation	2	1	0.0002337107341989	0.0
+GO:0030301	cholesterol transport	2	1	0.0002426331857028	1.3888888888888888
+GO:0045197	establishment or maintenance of epithelial cell apical/basal polarity	2	1	0.0002426480031116	0.0
+GO:0000462	maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	2	1	0.0002478139428959	0.0
+GO:1900152	negative regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay	2	1	0.000253759675843	0.0
+GO:0042058	regulation of epidermal growth factor receptor signaling pathway	2	1	0.0002599978754698456	5.0
+GO:0000460	maturation of 5.8S rRNA	2	1	0.000261033772951	0.0
+GO:0032206	positive regulation of telomere maintenance	2	1	0.0002658225790433	1.6666666666666667
+GO:0045638	negative regulation of myeloid cell differentiation	2	1	0.0002668389357747	4.761904761904762
+GO:0033119	negative regulation of RNA splicing	2	1	0.0002711907341144	0.0
+GO:0000028	ribosomal small subunit assembly	2	1	0.000271737499118	2.941176470588235
+GO:0032720	negative regulation of tumor necrosis factor production	2	1	0.0002779245101047	1.2048192771084338
+GO:0009648	photoperiodism	2	1	0.0002850425809749	2.941176470588235
+GO:0045806	negative regulation of endocytosis	2	1	0.0002899071016901	2.3255813953488373
+GO:0033962	P-body assembly	2	1	0.0002943683887526	0.0
+GO:0141060	disruption of anatomical structure in another organism	2	1	0.0003001607061625	11.88118811881188
+GO:0120254	olefinic compound metabolic process	2	1	0.0003311869779569	1.11731843575419
+GO:0006359	regulation of transcription by RNA polymerase III	2	1	0.0003370043911708	0.0
+GO:0002183	cytoplasmic translational initiation	2	1	0.0003676955277913	0.0
+GO:1900151	regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay	2	1	0.0003725042318627	2.3255813953488373
+GO:0097530	granulocyte migration	2	1	0.0003768303565208	3.389830508474576
+GO:0002755	MyD88-dependent toll-like receptor signaling pathway	2	1	0.0003798393831608	2.941176470588235
+GO:0045861	negative regulation of proteolysis	2	1	0.0003950240417003	1.3888888888888888
+GO:1905664	regulation of calcium ion import across plasma membrane	2	1	0.0004003363130874	5.2631578947368425
+GO:0010575	positive regulation of vascular endothelial growth factor production	2	1	0.00040540336908781726	11.11111111111111
+GO:0019377	glycolipid catabolic process	2	1	0.0004296282788169	0.0
+GO:0071827	plasma lipoprotein particle organization	2	1	0.000439447588193	1.923076923076923
+GO:0042119	neutrophil activation	2	1	0.0004543409776356	4.477611940298507
+GO:0042659	regulation of cell fate specification	2	1	0.0004547516725098	0.0
+GO:0033143	regulation of intracellular steroid hormone receptor signaling pathway	2	1	0.0004927256346337	0.99009900990099
+GO:0090208	positive regulation of triglyceride metabolic process	2	1	0.0004980868139272	0.0
+GO:0001732	formation of cytoplasmic translation initiation complex	2	1	0.0005126991666518	0.0
+GO:0071985	multivesicular body sorting pathway	2	1	0.0005141437398459	1.2048192771084338
+GO:1905168	positive regulation of double-strand break repair via homologous recombination	2	1	0.0005307800541054	0.0
+GO:0002220	innate immune response activating cell surface receptor signaling pathway	2	1	0.0005308856726031	3.676470588235294
+GO:0002698	negative regulation of immune effector process	2	1	0.0005439937125504	4.294478527607362
+GO:0032922	circadian regulation of gene expression	2	1	0.0005566661879123	3.061224489795918
+GO:0000288	nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay	2	1	0.0005599518759189	0.8547008547008548
+GO:0035088	establishment or maintenance of apical/basal cell polarity	2	1	0.0005719757813627	0.0
+GO:0061245	establishment or maintenance of bipolar cell polarity	2	1	0.0005719757813627	0.0
+GO:0090279	regulation of calcium ion import	2	1	0.0005847364446335	2.0
+GO:0007588	excretion	2	1	0.0005876895767067	0.0
+GO:0034142	toll-like receptor 4 signaling pathway	2	1	0.0006062738574741	3.409090909090909
+GO:0002886	regulation of myeloid leukocyte mediated immunity	2	1	0.0006182073786422	1.2987012987012987
+GO:0042554	superoxide anion generation	2	1	0.0006188713955106	1.818181818181818
+GO:2001238	positive regulation of extrinsic apoptotic signaling pathway	2	1	0.0006379440185848	3.0769230769230766
+GO:0140888	interferon-mediated signaling pathway	2	1	0.0006404085622906	6.993006993006993
+GO:0006641	triglyceride metabolic process	2	1	0.0006425819993969	1.7391304347826089
+GO:0050854	regulation of antigen receptor-mediated signaling pathway	2	1	0.0006650555693264	9.243697478991598
+GO:0036230	granulocyte activation	2	1	0.0006710658979587	3.7037037037037033
+GO:0045063	T-helper 1 cell differentiation	2	1	0.0006711105920891	5.0
+GO:0045061	thymic T cell selection	2	1	0.0006912288045359447	9.75609756097561
+GO:0001562	response to protozoan	2	1	0.0007039544494482	15.384615384615383
+GO:0015918	sterol transport	2	1	0.0007060659874016	1.3333333333333333
+GO:0034162	toll-like receptor 9 signaling pathway	2	1	0.0007122788101054	2.1739130434782608
+GO:0002275	myeloid cell activation involved in immune response	2	1	0.0007284363481512	4.347826086956522
+GO:0042417	dopamine metabolic process	2	1	0.00073549678488	0.0
+GO:0042088	T-helper 1 type immune response	2	1	0.0007441083534351	4.0
+GO:0070486	leukocyte aggregation	2	1	0.000748362777087993	15.789473684210526
+GO:0043153	entrainment of circadian clock by photoperiod	2	1	0.0007631694651965	3.0303030303030303
+GO:0072525	pyridine-containing compound biosynthetic process	2	1	0.0007641172773731	0.0
+GO:0030521	androgen receptor signaling pathway	2	1	0.000775257591954	0.0
+GO:0002224	toll-like receptor signaling pathway	2	1	0.0008008223080131	3.149606299212598
+GO:0002534	cytokine production involved in inflammatory response	2	1	0.0008171498718239	4.395604395604395
+GO:1900015	regulation of cytokine production involved in inflammatory response	2	1	0.0008171498718239	4.395604395604395
+GO:0090207	regulation of triglyceride metabolic process	2	1	0.0008182575612756	0.0
+GO:0010867	positive regulation of triglyceride biosynthetic process	2	1	0.0008593123226214	0.0
+GO:0016188	synaptic vesicle maturation	2	1	0.0008645511336404	0.0
+GO:0051452	intracellular pH reduction	2	1	0.0008671481786965	1.1235955056179776
+GO:0045945	positive regulation of transcription by RNA polymerase III	2	1	0.0008724788648769	0.0
+GO:0045066	regulatory T cell differentiation	2	1	0.0009096417877598	3.7037037037037033
+GO:1901658	glycosyl compound catabolic process	2	1	0.0009362850099055	0.0
+GO:0016556	mRNA modification	2	1	0.0009394443157643	0.0
+GO:0009435	NAD+ biosynthetic process	2	1	0.0009616613399674	0.0
+GO:0002523	leukocyte migration involved in inflammatory response	2	1	0.0009706476323354	8.333333333333334
+GO:0006749	glutathione metabolic process	2	1	0.000970703599771	0.0
+GO:0016101	diterpenoid metabolic process	2	1	0.0010071136552258	1.1363636363636365
+GO:0002762	negative regulation of myeloid leukocyte differentiation	2	1	0.0010756731477923	8.620689655172415
+GO:0006027	glycosaminoglycan catabolic process	2	1	0.0011224807747711	2.941176470588235
+GO:0046514	ceramide catabolic process	2	1	0.0011944478166103	0.0
+GO:0019370	leukotriene biosynthetic process	2	1	0.001210304721001	5.2631578947368425
+GO:0030574	collagen catabolic process	2	1	0.0012325896369895	2.0
+GO:0046007	negative regulation of activated T cell proliferation	2	1	0.0012645610991072	13.636363636363637
+GO:0140374	antiviral innate immune response	2	1	0.0012701829551011	5.0
+GO:0061760	antifungal innate immune response	2	1	0.001283768994734	3.846153846153846
+GO:0050686	negative regulation of mRNA processing	2	1	0.0012949475506893	0.0
+GO:0006721	terpenoid metabolic process	2	1	0.0013006283422065	0.8695652173913044
+GO:0042073	intraciliary transport	2	1	0.0013072596838813	0.0
+GO:0046479	glycosphingolipid catabolic process	2	1	0.001322632805361	0.0
+GO:0032239	regulation of nucleobase-containing compound transport	2	1	0.0013280047695697	0.0
+GO:0045292	mRNA cis splicing, via spliceosome	2	1	0.0013302349053293	0.0
+GO:0000963	mitochondrial RNA processing	2	1	0.001334422554484	0.0
+GO:0032509	endosome transport via multivesicular body sorting pathway	2	1	0.0013400304260924	1.3888888888888888
+GO:2001244	positive regulation of intrinsic apoptotic signaling pathway	2	1	0.0013512882471282	6.024096385542169
+GO:0042102	positive regulation of T cell proliferation	2	1	0.0013678461308294	4.918032786885246
+GO:0045921	positive regulation of exocytosis	2	1	0.0014029569960594	0.8771929824561404
+GO:0120162	positive regulation of cold-induced thermogenesis	2	1	0.0014112611586591	2.8985507246376816
+GO:0036257	multivesicular body organization	2	1	0.0014405424732342	0.0
+GO:0030890	positive regulation of B cell proliferation	2	1	0.00144448675257	8.0
+GO:0045648	positive regulation of erythrocyte differentiation	2	1	0.00144448675257	8.0
+GO:0035019	somatic stem cell population maintenance	2	1	0.0014674958188866	9.090909090909092
+GO:0034308	primary alcohol metabolic process	2	1	0.0015233102610228	0.8333333333333334
+GO:0030449	regulation of complement activation	2	1	0.0015238230244702	12.12121212121212
+GO:0050819	negative regulation of coagulation	2	1	0.0015330048235147	3.125
+GO:0001676	long-chain fatty acid metabolic process	2	1	0.0015457515750059	0.7194244604316548
+GO:0046460	neutral lipid biosynthetic process	2	1	0.0015792314956211	3.0769230769230766
+GO:0046463	acylglycerol biosynthetic process	2	1	0.0015792314956211	3.0769230769230766
+GO:0098883	synapse pruning	2	1	0.0015891132911072	12.5
+GO:0042730	fibrinolysis	2	1	0.0016179244813923	3.4482758620689657
+GO:0051642	centrosome localization	2	1	0.001630962125327	5.555555555555555
+GO:0061842	microtubule organizing center localization	2	1	0.001630962125327	5.555555555555555
+GO:0032689	negative regulation of type II interferon production	2	1	0.0016444748852514	7.692307692307692
+GO:0090077	foam cell differentiation	2	1	0.0016903842905966	1.923076923076923
+GO:0030168	platelet activation	2	1	0.0017820551384342	4.419889502762431
+GO:0010742	macrophage derived foam cell differentiation	2	1	0.0017889418893575	2.083333333333333
+GO:0010743	regulation of macrophage derived foam cell differentiation	2	1	0.0017933845271485	2.4390243902439024
+GO:0071677	positive regulation of mononuclear cell migration	2	1	0.0018213113384977	0.7633587786259541
+GO:0045005	DNA-templated DNA replication maintenance of fidelity	2	1	0.0018469357839368	0.0
+GO:2000767	positive regulation of cytoplasmic translation	2	1	0.0018527717364421	0.0
+GO:0048512	circadian behavior	2	1	0.0019112866993819	0.0
+GO:0030195	negative regulation of blood coagulation	2	1	0.0019277384730633	3.333333333333333
+GO:1900047	negative regulation of hemostasis	2	1	0.0019277384730633	3.333333333333333
+GO:0006012	galactose metabolic process	2	1	0.001949131489928	0.0
+GO:0072376	protein activation cascade	2	1	0.0019531599071531	6.451612903225807
+GO:0019359	nicotinamide nucleotide biosynthetic process	2	1	0.0019874415357199	0.0
+GO:0019363	pyridine nucleotide biosynthetic process	2	1	0.0019874415357199	0.0
+GO:0042117	monocyte activation	2	1	0.0019941181862834	10.526315789473683
+GO:0170062	nutrient storage	2	1	0.0020188484186929	0.8547008547008548
+GO:0070475	rRNA base methylation	2	1	0.0020316314784169	0.0
+GO:0048025	negative regulation of mRNA splicing, via spliceosome	2	1	0.0020717817813938	0.0
+GO:0010569	regulation of double-strand break repair via homologous recombination	2	1	0.0021038928865114	0.0
+GO:0051036	regulation of endosome size	2	1	0.0021392610904169	0.0
+GO:0030217	T cell differentiation	2	1	0.0021732332060731	5.8679706601467
+GO:1905523	positive regulation of macrophage migration	2	1	0.002183609767671	2.7777777777777777
+GO:0016525	negative regulation of angiogenesis	2	1	0.0022210306328054	4.477611940298507
+GO:1905517	macrophage migration	2	1	0.0022257259328268	1.4084507042253522
+GO:0007155	cell adhesion	2	1	0.0022510361413166	2.374378796245169
+GO:0002921	negative regulation of humoral immune response	2	1	0.0022958544237987	11.538461538461538
+GO:1905906	regulation of amyloid fibril formation	2	1	0.0023225981679018	4.166666666666667
+GO:0046831	regulation of RNA export from nucleus	2	1	0.0024022334472423	0.0
+GO:0043922	host-mediated suppression of viral transcription	2	1	0.0024202495415306	0.0
+GO:0050857	positive regulation of antigen receptor-mediated signaling pathway	2	1	0.0024869607713131	2.631578947368421
+GO:0003073	regulation of systemic arterial blood pressure	2	1	0.0025079070638787	1.3157894736842106
+GO:0006584	catecholamine metabolic process	2	1	0.0025439705445122	0.0
+GO:0009712	catechol-containing compound metabolic process	2	1	0.0025439705445122	0.0
+GO:0030194	positive regulation of blood coagulation	2	1	0.0026038881145444	5.555555555555555
+GO:1900048	positive regulation of hemostasis	2	1	0.0026038881145444	5.555555555555555
+GO:2001198	regulation of dendritic cell differentiation	2	1	0.0026049782482167	0.0
+GO:0036258	multivesicular body assembly	2	1	0.0027175956573046	0.0
+GO:0006739	NADP+ metabolic process	2	1	0.0027437416080364	0.0
+GO:0140588	chromatin looping	2	1	0.0027528059611675	0.0
+GO:0002920	regulation of humoral immune response	2	1	0.0027626639900879	8.695652173913043
+GO:0060765	regulation of androgen receptor signaling pathway	2	1	0.0028023714322081	0.0
+GO:0061756	leukocyte adhesion to vascular endothelial cell	2	1	0.0028128237898002	5.633802816901409
+GO:0002637	regulation of immunoglobulin production	2	1	0.0028395044437668	3.79746835443038
+GO:0061339	establishment or maintenance of monopolar cell polarity	2	1	0.0028489737663767	0.0
+GO:0032693	negative regulation of interleukin-10 production	2	1	0.0028577834146773	10.344827586206897
+GO:0045995	regulation of embryonic development	2	1	0.0028651226403203	0.0
+GO:0019915	lipid storage	2	1	0.0028800057861404	0.8771929824561404
+GO:0033120	positive regulation of RNA splicing	2	1	0.0029473023004443	0.0
+GO:0097028	dendritic cell differentiation	2	1	0.0029945558192734	2.083333333333333
+GO:0034694	response to prostaglandin	2	1	0.0030064702580042	0.0
+GO:0046642	negative regulation of alpha-beta T cell proliferation	2	1	0.0030207898908762	4.761904761904762
+GO:0075522	IRES-dependent viral translational initiation	2	1	0.0030609617848193	0.0
+GO:0042987	amyloid precursor protein catabolic process	2	1	0.0031291301733458	1.0526315789473684
+GO:0006691	leukotriene metabolic process	2	1	0.0031689781924033	2.631578947368421
+GO:0006809	nitric oxide biosynthetic process	2	1	0.0031735773260495	2.912621359223301
+GO:0022616	DNA strand elongation	2	1	0.0032302263923441	0.0
+GO:0010457	centriole-centriole cohesion	2	1	0.0032534971743443	0.0
+GO:0042402	biogenic amine catabolic process	2	1	0.0032947425513592	0.0
+GO:0001913	T cell mediated cytotoxicity	2	1	0.0033207614654531	1.4925373134328357
+GO:0046597	host-mediated suppression of symbiont invasion	2	1	0.00338617083232	9.67741935483871
+GO:0071825	protein-lipid complex organization	2	1	0.0034363750395665	1.818181818181818
+GO:0050855	regulation of B cell receptor signaling pathway	2	1	0.003473220310361	8.823529411764705
+GO:0009074	aromatic amino acid family catabolic process	2	1	0.0035046313919502	0.0
+GO:0071356	cellular response to tumor necrosis factor	2	1	0.0035225308265017	5.633802816901409
+GO:0006825	copper ion transport	2	1	0.0035442084523593	0.0
+GO:0000054	ribosomal subunit export from nucleus	2	1	0.003558236012542	0.0
+GO:0033750	ribosome localization	2	1	0.003558236012542	0.0
+GO:0034154	toll-like receptor 7 signaling pathway	2	1	0.0036765568570704	5.2631578947368425
+GO:0048246	macrophage chemotaxis	2	1	0.0038148044186472	1.923076923076923
+GO:0009308	amine metabolic process	2	1	0.0038231832700821	0.0
+GO:2000765	regulation of cytoplasmic translation	2	1	0.0038300033990895	0.0
+GO:0031297	replication fork processing	2	1	0.0038363760163398	0.0
+GO:0072574	hepatocyte proliferation	2	1	0.0038709958559599	4.761904761904762
+GO:0002544	chronic inflammatory response	2	1	0.0038737483681277	11.76470588235294
+GO:2000736	regulation of stem cell differentiation	2	1	0.0039220570647798	2.083333333333333
+GO:0034389	lipid droplet organization	2	1	0.0039237764089417	0.0
+GO:0042100	B cell proliferation	2	1	0.0039441336593826	7.82608695652174
+GO:1903027	regulation of opsonization	2	1	0.0039480931805764	5.88235294117647
+GO:0060339	negative regulation of type I interferon-mediated signaling pathway	2	1	0.0039705025701128	9.09090909090909
+GO:2001185	regulation of CD8-positive, alpha-beta T cell activation	2	1	0.0039705025701128	9.09090909090909
+GO:0034367	protein-containing complex remodeling	2	1	0.0040855028356725	0.0
+GO:0045663	positive regulation of myoblast differentiation	2	1	0.0041108288422679	3.5087719298245617
+GO:0097401	synaptic vesicle lumen acidification	2	1	0.0041461338290114	0.0
+GO:0051043	regulation of membrane protein ectodomain proteolysis	2	1	0.0041785536758964	2.7777777777777777
+GO:0001523	retinoid metabolic process	2	1	0.004192822884548	1.2048192771084338
+GO:0036297	interstrand cross-link repair	2	1	0.0041980921417895	0.0
+GO:0002701	negative regulation of production of molecular mediator of immune response	2	1	0.004198671852443	6.521739130434782
+GO:0007020	microtubule nucleation	2	1	0.0042228642762065	0.0
+GO:1902882	regulation of response to oxidative stress	2	1	0.0042423590432894	0.0
+GO:0030214	hyaluronan catabolic process	2	1	0.0042823654886887	0.0
+GO:0048662	negative regulation of smooth muscle cell proliferation	2	1	0.0044249901168789	0.0
+GO:0045862	positive regulation of proteolysis	2	1	0.004492966859902	4.854368932038835
+GO:0052548	regulation of endopeptidase activity	2	1	0.004505017927711	5.88235294117647
+GO:0010804	negative regulation of tumor necrosis factor-mediated signaling pathway	2	1	0.004509474128965	5.88235294117647
+GO:1903307	positive regulation of regulated secretory pathway	2	1	0.0045756856779206	1.6129032258064515
+GO:0030520	estrogen receptor signaling pathway	2	1	0.0045830713311186	4.819277108433735
+GO:0045730	respiratory burst	2	1	0.0045836276409696	0.0
+GO:0006026	aminoglycan catabolic process	2	1	0.0045977721588887	2.3255813953488373
+GO:0050995	negative regulation of lipid catabolic process	2	1	0.0046124775073073	8.823529411764705
+GO:0006346	DNA methylation-dependent constitutive heterochromatin formation	2	1	0.0046309926445053	0.0
+GO:0045582	positive regulation of T cell differentiation	2	1	0.004639628798282	4.45859872611465
+GO:0070316	regulation of G0 to G1 transition	2	1	0.0046534331008688	1.8867924528301885
+GO:0006383	transcription by RNA polymerase III	2	1	0.0046715742445625	0.0
+GO:0019432	triglyceride biosynthetic process	2	1	0.0046759037530144	3.5087719298245617
+GO:0006271	DNA strand elongation involved in DNA replication	2	1	0.0047153682893851	0.0
+GO:0006518	peptide metabolic process	2	1	0.0047240973553266	1.4084507042253522
+GO:0036151	phosphatidylcholine acyl-chain remodeling	2	1	0.0047608372512428	0.0
+GO:0043302	positive regulation of leukocyte degranulation	2	1	0.0047818055480752	2.941176470588235
+GO:0034377	plasma lipoprotein particle assembly	2	1	0.0048763978745007	3.571428571428571
+GO:0010866	regulation of triglyceride biosynthetic process	2	1	0.0049678416901302	0.0
+GO:0033619	membrane protein proteolysis	2	1	0.0049729107594682	1.0989010989010988
+GO:1900407	regulation of cellular response to oxidative stress	2	1	0.0049833645473238	0.0
+GO:0022617	extracellular matrix disassembly	2	1	0.0050042015243516	2.272727272727273
+GO:0007622	rhythmic behavior	2	1	0.0050667288752661	0.0
+GO:0043921	host-mediated perturbation of viral transcription	2	1	0.0050777606708196	0.0
+GO:0018958	phenol-containing compound metabolic process	2	1	0.0051198526570277	0.0
+GO:0007166	cell surface receptor signaling pathway	2	1	0.0052808048471603	2.53592561284869
+GO:0019076	viral release from host cell	2	1	0.005310141662526	0.0
+GO:0035891	exit from host cell	2	1	0.005310141662526	0.0
+GO:0010818	T cell chemotaxis	2	1	0.0053136565303438	8.333333333333334
+GO:0006576	biogenic amine metabolic process	2	1	0.005409909227285	0.0
+GO:0010453	regulation of cell fate commitment	2	1	0.0054819591584975	0.0
+GO:0043277	apoptotic cell clearance	2	1	0.0055569592183737	1.7543859649122808
+GO:0034134	toll-like receptor 2 signaling pathway	2	1	0.0056032933136627	0.0
+GO:0032928	regulation of superoxide anion generation	2	1	0.0056934086293187	3.2258064516129035
+GO:0032930	positive regulation of superoxide anion generation	2	1	0.0056934086293187	3.2258064516129035
+GO:0032728	positive regulation of interferon-beta production	2	1	0.0057199815677321	5.555555555555555
+GO:0050790	regulation of catalytic activity	2	1	0.0058225363026695	1.2953367875647668
+GO:0030316	osteoclast differentiation	2	1	0.0058478369715544	5.511811023622047
+GO:2000402	negative regulation of lymphocyte migration	2	1	0.0058781825004955	0.0
+GO:0071354	cellular response to interleukin-6	2	1	0.0059026828673243	4.0
+GO:0050820	positive regulation of coagulation	2	1	0.0059127765728237	5.2631578947368425
+GO:0090280	positive regulation of calcium ion import	2	1	0.0060106721210123	3.4482758620689657
+GO:0032703	negative regulation of interleukin-2 production	2	1	0.0060754677984664	7.894736842105263
+GO:0002716	negative regulation of natural killer cell mediated immunity	2	1	0.0060834339665771	2.5
+GO:0045953	negative regulation of natural killer cell mediated cytotoxicity	2	1	0.0060834339665771	2.5
+GO:0060412	ventricular septum morphogenesis	2	1	0.0061159298063454	0.0
+GO:0034085	establishment of sister chromatid cohesion	2	1	0.0061822933918179	0.0
+GO:0006509	membrane protein ectodomain proteolysis	2	1	0.0062379637140084	1.4492753623188408
+GO:0070527	platelet aggregation	2	1	0.0062416458917704	2.0408163265306123
+GO:0030033	microvillus assembly	2	1	0.006259006403219	4.545454545454546
+GO:0030212	hyaluronan metabolic process	2	1	0.006277247217983	4.651162790697675
+GO:0015732	prostaglandin transport	2	1	0.0062984950333453	4.761904761904762
+GO:0060760	positive regulation of response to cytokine stimulus	2	1	0.0064267823169652	4.854368932038835
+GO:0055070	copper ion homeostasis	2	1	0.006431982948484	3.571428571428571
+GO:0045023	G0 to G1 transition	2	1	0.006553719598183	1.7543859649122808
+GO:0045766	positive regulation of angiogenesis	2	1	0.006626060872237	3.1818181818181817
+GO:0007062	sister chromatid cohesion	2	1	0.0066430607771345	0.0
+GO:0034695	response to prostaglandin E	2	1	0.0066670310083378	0.0
+GO:0006687	glycosphingolipid metabolic process	2	1	0.0066722031103998	0.0
+GO:0006450	regulation of translational fidelity	2	1	0.006714859164862	0.0
+GO:0051292	nuclear pore complex assembly	2	1	0.0067911279037345	0.0
+GO:0003081	regulation of systemic arterial blood pressure by renin-angiotensin	2	1	0.0068379777768625	0.0
+GO:0031334	positive regulation of protein-containing complex assembly	2	1	0.0068694880559541	2.8169014084507045
+GO:0048002	antigen processing and presentation of peptide antigen	2	1	0.0068977648007657	2.0408163265306123
+GO:0035458	cellular response to interferon-beta	2	1	0.006899211852975	7.5
+GO:0045577	regulation of B cell differentiation	2	1	0.006899211852975	7.5
+GO:0090200	positive regulation of release of cytochrome c from mitochondria	2	1	0.006899211852975	7.5
+GO:0003281	ventricular septum development	2	1	0.0069792473783126	0.0
+GO:0061763	multivesicular body-lysosome fusion	2	1	0.0069801685605639	0.0
+GO:0090382	phagosome maturation	2	1	0.0070498713077871	2.3255813953488373
+GO:0010324	membrane invagination	2	1	0.0070746121678599	2.0
+GO:0071715	icosanoid transport	2	1	0.0071202336633045	1.818181818181818
+GO:0140448	signaling receptor ligand precursor processing	2	1	0.0071240182279752	2.0
+GO:0090646	mitochondrial tRNA processing	2	1	0.0071505979728134	0.0
+GO:0002922	positive regulation of humoral immune response	2	1	0.0071939131656368	11.76470588235294
+GO:0097494	regulation of vesicle size	2	1	0.0072451576767851	0.0
+GO:0009159	deoxyribonucleoside monophosphate catabolic process	2	1	0.007272952134989	4.545454545454546
+GO:0006995	cellular response to nitrogen starvation	2	1	0.0073148836139047	0.0
+GO:0043562	cellular response to nitrogen levels	2	1	0.0073148836139047	0.0
+GO:0045580	regulation of T cell differentiation	2	1	0.0073390948458704	3.90625
+GO:0033344	cholesterol efflux	2	1	0.0073766803098587	1.4925373134328357
+GO:0140112	extracellular vesicle biogenesis	2	1	0.0074105198975678	0.0
+GO:0042403	thyroid hormone metabolic process	2	1	0.0074205649403311	0.0
+GO:0043691	reverse cholesterol transport	2	1	0.0074277822972548	4.545454545454546
+GO:0001991	regulation of systemic arterial blood pressure by circulatory renin-angiotensin	2	1	0.0074735424266787	0.0
+GO:0002369	T cell cytokine production	2	1	0.0075803046405893	6.451612903225807
+GO:0002724	regulation of T cell cytokine production	2	1	0.0075803046405893	6.451612903225807
+GO:0061028	establishment of endothelial barrier	2	1	0.0077197606360837	5.633802816901409
+GO:0008299	isoprenoid biosynthetic process	2	1	0.0077336206578839	2.3255813953488373
+GO:0009649	entrainment of circadian clock	2	1	0.0077858522407038	2.631578947368421
+GO:0002726	positive regulation of T cell cytokine production	2	1	0.0077860665741805	7.317073170731708
+GO:0046426	negative regulation of receptor signaling pathway via JAK-STAT	2	1	0.0077860665741805	7.317073170731708
+GO:0045324	late endosome to vacuole transport	2	1	0.0078383740902887	0.0
+GO:0032621	interleukin-18 production	2	1	0.0080075845167173	10.526315789473683
+GO:0032661	regulation of interleukin-18 production	2	1	0.0080075845167173	10.526315789473683
+GO:1900016	negative regulation of cytokine production involved in inflammatory response	2	1	0.0080443246759267	2.083333333333333
+GO:0034368	protein-lipid complex remodeling	2	1	0.0080645324332806	0.0
+GO:0034369	plasma lipoprotein particle remodeling	2	1	0.0080645324332806	0.0
+GO:0051044	positive regulation of membrane protein ectodomain proteolysis	2	1	0.0080881623620821	4.545454545454546
+GO:0001914	regulation of T cell mediated cytotoxicity	2	1	0.0081355331838901	1.7241379310344829
+GO:0042981	regulation of apoptotic process	2	1	0.0093665060632014	2.220956719817768
+GO:0022406	membrane docking	2	1	0.0097269571254945	2.941176470588235
