@@ -1,7 +1,7 @@
 # Gene Ontology enrichment of the TB vs healthy differentially expressed genes with topGO
 # Method: topGO, Fisher's exact test with the weight01 algorithm
 # Ontology: Gene Ontology, Biological Process (BP)
-# Run from the project root after results/differential_expression.ipynb: Rscript topgo_enrichment.R
+# Run from the project root after "results/3. Volcano Graph.ipynb": Rscript topgo_enrichment.R
 
 # Install packages if needed
 if (!("BiocManager" %in% installed.packages())) {
