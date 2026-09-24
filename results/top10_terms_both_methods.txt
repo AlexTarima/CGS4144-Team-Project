@@ -1,0 +1,13 @@
+term_id	term_name	n_methods_tested	n_methods_significant	pvalue	fold_enrichment
+
+Gene Ontology:
+GO:0042742	defense response to bacterium	2	2	0.0	9.785932721712538
+GO:0050830	defense response to Gram-positive bacterium	2	2	1.99840144432528e-15	12.62135922330097
+GO:0032760	positive regulation of tumor necrosis factor production	2	2	6.61914967281518e-13	4.069767441860465
+GO:0071222	cellular response to lipopolysaccharide	2	2	1.2355005907238599e-11	4.72972972972973
+GO:0031640	killing of cells of another organism	2	2	1.1480937061302518e-10	12.63157894736842
+GO:0034341	response to type II interferon	2	2	2.58250976159502e-10	6.857142857142857
+GO:0050729	positive regulation of inflammatory response	2	2	9.63674778918622e-10	7.511737089201878
+GO:0050832	defense response to fungus	2	2	3.1980198489378604e-09	11.267605633802818
+GO:0032731	positive regulation of interleukin-1 beta production	2	2	5.849554618464481e-09	6.315789473684211
+GO:0002221	pattern recognition receptor signaling pathway	2	2	6.498996184228676e-09	4.805491990846682
