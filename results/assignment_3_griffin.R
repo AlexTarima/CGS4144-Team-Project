@@ -1,4 +1,3 @@
-signment 3 griffin · R
 library(cluster)
  
 dir.create("results", showWarnings = FALSE)
