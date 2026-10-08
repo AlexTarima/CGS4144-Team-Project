@@ -1,0 +1,81 @@
+
+5000 genes: k = 2 (rows) vs k = 3 (columns)
+col_0    1    2    3
+row_0               
+1      310   20  153
+2       27  253   56
+
+5000 genes: k = 3 (rows) vs k = 4 (columns)
+col_0    1    2    3    4
+row_0                    
+1       66   58  182   31
+2      103    4    7  159
+3       22  155   10   22
+
+5000 genes: k = 4 (rows) vs k = 5 (columns)
+col_0    1   2   3    4    5
+row_0                       
+1       16  63  86   22    4
+2       18  38  43    2  116
+3      113  42  34    2    8
+4        2  50  43  117    0
+
+5000 genes: k = 5 (rows) vs k = 6 (columns)
+col_0   1   2    3    4   5    6
+row_0                           
+1       0  72    0   12  61    4
+2      12   6    4  133  32    6
+3       6   8    1    0   2  189
+4      88   0    1   50   2    2
+5       0   2  106    8  10    2
+
+5000 genes: k = 6 (rows) vs k = 7 (columns)
+col_0   1   2   3   4    5   6    7
+row_0                              
+1       4   9   0  85    0   4    4
+2       2   4  66   0   12   4    0
+3       0  97  12   0    2   0    1
+4      49   8   4   2  134   6    0
+5       0   6  30   0    6  65    0
+6      10   0   4  12    0   8  169
+
+5000 genes: k = 7 (rows) vs k = 8 (columns)
+col_0   1    2   3   4   5   6   7   8
+row_0                                 
+1       2   41   2   0   0   2   0  18
+2      38    2   0  12   0   2  66   4
+3       2    2  80   0   0   8  24   0
+4       2    0   0  26  18   0   0  53
+5       0  114  10  20   8   0   2   0
+6       0   14  10   0   6  57   0   0
+7      51    0   8   0  51  26   0  38
+
+10 genes, k = 2: clusters vs TB/Healthy
+group    Healthy   TB
+cluster              
+1             28  466
+2             50  275
+
+100 genes, k = 2: clusters vs TB/Healthy
+group    Healthy   TB
+cluster              
+1             28  466
+2             50  275
+
+1000 genes, k = 2: clusters vs TB/Healthy
+group    Healthy   TB
+cluster              
+1             25  474
+2             53  267
+
+5000 genes, k = 2: clusters vs TB/Healthy
+group    Healthy   TB
+cluster              
+1             29  454
+2             49  287
+
+10000 genes, k = 2: clusters vs TB/Healthy
+group    Healthy   TB
+cluster              
+1             60  335
+2             18  406
